@@ -1,0 +1,20 @@
+
+
+body
+{
+ background-color: black;
+  background-image: url("bg.png");
+}
+.box
+{
+   height: 50vh;
+   width: auto;
+  /* padding-bottom: 20%;*/
+  visibility: hidden;
+  background-image: url("coding.png");
+ margin-top: 10%;
+  margin-right: 30%;
+   margin-bottom: 10%;
+   margin-left: 30%;
+
+}
